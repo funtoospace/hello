@@ -2,7 +2,7 @@
 
 int main()
 {
- int a=0;
+ int a=0,b=0;
 	printf("Hello, github!\n");
 	printf("New branch - topic1 !\n");
 	printf("Branch topic1-1");
